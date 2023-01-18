@@ -1,1 +1,0 @@
-# wu1-mina-bilder
