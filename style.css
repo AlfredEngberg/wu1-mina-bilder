@@ -53,6 +53,7 @@ ul {
 }
 
 main {
+    margin: 1rem;
     color:wheat;
     font-weight:bolder;
 }
